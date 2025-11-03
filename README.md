@@ -1,7 +1,7 @@
 # 🚀 Atividade Prática: Aula 15 - Git e GitHub
 
 **Disciplina:** Arquitetura Web (TADS/Ciência da Computação - UFRR)
-**Professor:** Capitão Black
+**Professor:** Jean Bertrand
 
 ## 🎯 Objetivo
 
@@ -54,7 +54,7 @@ Crie um novo arquivo de texto simples. Por uma convenção do GitHub, vamos usar
 * **Conteúdo:** Escreva uma breve biografia sua. Por exemplo:
 
 ```md
-# Capitão Black
+# Jean Bertrand
 **Curso:** Ciência da Computação
 **Interesses:** IA, Jogos e Arquitetura de Software.
 **Trabalho:** Analista de Sistemas na AMATUR.
